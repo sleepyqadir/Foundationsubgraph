@@ -1,2 +1,2 @@
-# Foundationsubgraph
-A subgraph for querying NFTs
+# Awesome SubGraphs
+Awesome sub graphs and their implementation
